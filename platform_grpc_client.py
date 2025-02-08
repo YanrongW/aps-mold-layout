@@ -1,0 +1,1 @@
+from ai_aiohttp_web import grpc_process_client

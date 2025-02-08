@@ -1,0 +1,11 @@
+# 工程框架依赖
+ai_flask_web==0.0.2.1
+
+# 项目依赖
+pandas==1.5.2
+numpy==1.23.5
+json5==0.9.6
+requests==2.32.3
+gurobipy==12.0.1
+gunicorn==21.2.0
+Werkzeug==2.3.0
