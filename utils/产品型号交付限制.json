@@ -1,0 +1,94 @@
+{
+    "product_delivery_restriction": [
+        {
+            "mould_series": "BCD4501",
+            "product_code": "BCD4501",
+            "monday_delivery_quantity": 0,
+            "tuesday_delivery_quantity": 0,
+            "wednesday_delivery_quantity": 0,
+            "thursday_delivery_quantity": 0,
+            "friday_delivery_quantity": 0,
+            "saturday_delivery_quantity": 444
+        },
+        {
+            "mould_series": "BCD465",
+            "product_code": "BCD465",
+            "monday_delivery_quantity": 0,
+            "tuesday_delivery_quantity": 0,
+            "wednesday_delivery_quantity": 0,
+            "thursday_delivery_quantity": 0,
+            "friday_delivery_quantity": 0,
+            "saturday_delivery_quantity": 480
+        },
+        {
+            "mould_series": "BCD500",
+            "product_code": "BCD500",
+            "monday_delivery_quantity": 0,
+            "tuesday_delivery_quantity": 0,
+            "wednesday_delivery_quantity": 0,
+            "thursday_delivery_quantity": 0,
+            "friday_delivery_quantity": 2,
+            "saturday_delivery_quantity": 358
+        },
+        {
+            "mould_series": "5618两门",
+            "product_code": "5618两门",
+            "monday_delivery_quantity": 0,
+            "tuesday_delivery_quantity": 0,
+            "wednesday_delivery_quantity": 0,
+            "thursday_delivery_quantity": 0,
+            "friday_delivery_quantity": 0,
+            "saturday_delivery_quantity": 694
+        },
+        {
+            "mould_series": "BCD530",
+            "product_code": "BCD530",
+            "monday_delivery_quantity": 0,
+            "tuesday_delivery_quantity": 0,
+            "wednesday_delivery_quantity": 0,
+            "thursday_delivery_quantity": 0,
+            "friday_delivery_quantity": 0,
+            "saturday_delivery_quantity": 274
+        },
+        {
+            "mould_series": "BCD580",
+            "product_code": "BCD580",
+            "monday_delivery_quantity": 0,
+            "tuesday_delivery_quantity": 0,
+            "wednesday_delivery_quantity": 0,
+            "thursday_delivery_quantity": 0,
+            "friday_delivery_quantity": 0,
+            "saturday_delivery_quantity": 683
+        },
+        {
+            "mould_series": "5620三门",
+            "product_code": "5620三门",
+            "monday_delivery_quantity": 0,
+            "tuesday_delivery_quantity": 0,
+            "wednesday_delivery_quantity": 0,
+            "thursday_delivery_quantity": 0,
+            "friday_delivery_quantity": 0,
+            "saturday_delivery_quantity": 324
+        },
+        {
+            "mould_series": "5620两门",
+            "product_code": "5620两门",
+            "monday_delivery_quantity": 0,
+            "tuesday_delivery_quantity": 0,
+            "wednesday_delivery_quantity": 54,
+            "thursday_delivery_quantity": 0,
+            "friday_delivery_quantity": 0,
+            "saturday_delivery_quantity": 270
+        },
+        {
+            "mould_series": "BCD320",
+            "product_code": "BCD320",
+            "monday_delivery_quantity": 0,
+            "tuesday_delivery_quantity": 0,
+            "wednesday_delivery_quantity": 0,
+            "thursday_delivery_quantity": 0,
+            "friday_delivery_quantity": 0,
+            "saturday_delivery_quantity": 487
+        }
+    ]
+}

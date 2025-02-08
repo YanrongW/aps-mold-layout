@@ -1,0 +1,127 @@
+{
+    "mould_online_state_last_week": [
+        {
+            "mould_code": "BCD412",
+            "online_cnt": 4,
+            "bus_code": "B"
+        },
+        {
+            "mould_code": "卡萨帝418",
+            "online_cnt": 2,
+            "bus_code": "B"
+        },
+        {
+            "mould_code": "BCD251",
+            "online_cnt": 1,
+            "bus_code": "B"
+        },
+        {
+            "mould_code": "BCD580",
+            "online_cnt": 2,
+            "bus_code": "B"
+        },
+        {
+            "mould_code": "5618两门",
+            "online_cnt": 1,
+            "bus_code": "B"
+        },
+        {
+            "mould_code": "BCD406",
+            "online_cnt": 3,
+            "bus_code": "B"
+        },
+        {
+            "mould_code": "BCD超高端",
+            "online_cnt": 1,
+            "bus_code": "B"
+        },
+        {
+            "mould_code": "5618三门",
+            "online_cnt": 1,
+            "bus_code": "B"
+        },
+        {
+            "mould_code": "BCD400",
+            "online_cnt": 3,
+            "bus_code": "B"
+        },
+        {
+            "mould_code": "日本47",
+            "online_cnt": 1,
+            "bus_code": "B"
+        },
+        {
+            "mould_code": "BCD465",
+            "online_cnt": 1,
+            "bus_code": "B"
+        }
+    ],
+    "orders_to_be_produced": [
+        {
+            "mould_code": "BCD4501",
+            "product_type": "非主力",
+            "delivery_time": "2023-12-09",
+            "order_quantity": 444
+        },
+        {
+            "mould_code": "BCD465",
+            "product_type": "非主力",
+            "delivery_time": "2023-12-09",
+            "order_quantity": 480
+        },
+        {
+            "mould_code": "BCD500",
+            "product_type": "非主力",
+            "delivery_time": "2023-12-08",
+            "order_quantity": 2
+        },
+        {
+            "mould_code": "BCD500",
+            "product_type": "非主力",
+            "delivery_time": "2023-12-09",
+            "order_quantity": 358
+        },
+        {
+            "mould_code": "5618两门",
+            "product_type": "非主力",
+            "delivery_time": "2023-12-09",
+            "order_quantity": 694
+        },
+        {
+            "mould_code": "BCD530",
+            "product_type": "非主力",
+            "delivery_time": "2023-12-09",
+            "order_quantity": 274
+        },
+        {
+            "mould_code": "BCD580",
+            "product_type": "非主力",
+            "delivery_time": "2023-12-09",
+            "order_quantity": 683
+        },
+        {
+            "mould_code": "5620三门",
+            "product_type": "非主力",
+            "delivery_time": "2023-12-09",
+            "order_quantity": 324
+        },
+        {
+            "mould_code": "5620两门",
+            "product_type": "非主力",
+            "delivery_time": "2023-12-06",
+            "order_quantity": 54
+        },
+        {
+            "mould_code": "5620两门",
+            "product_type": "非主力",
+            "delivery_time": "2023-12-09",
+            "order_quantity": 270
+        },
+        {
+            "mould_code": "BCD320",
+            "product_type": "非主力",
+            "delivery_time": "2023-12-09",
+            "order_quantity": 487
+        }
+    ]
+}

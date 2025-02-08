@@ -1,0 +1,230 @@
+{
+    "mould_online_state_last_week": [
+        {
+            "mould_series": "BCD412",
+            "online_mould_cnt": 4,
+            "unit_capacity": 140
+        },
+        {
+            "mould_series": "卡萨帝418",
+            "online_mould_cnt": 2,
+            "unit_capacity": 100
+        },
+        {
+            "mould_series": "BCD251",
+            "online_mould_cnt": 1,
+            "unit_capacity": 100
+        },
+        {
+            "mould_series": "BCD580",
+            "online_mould_cnt": 2,
+            "unit_capacity": 80
+        },
+        {
+            "mould_series": "5618两门",
+            "online_mould_cnt": 1,
+            "unit_capacity": 100
+        },
+        {
+            "mould_series": "BCD406",
+            "online_mould_cnt": 3,
+            "unit_capacity": 140
+        },
+        {
+            "mould_series": "BCD超高端",
+            "online_mould_cnt": 1,
+            "unit_capacity": 100
+        },
+        {
+            "mould_series": "5618三门",
+            "online_mould_cnt": 1,
+            "unit_capacity": 100
+        },
+        {
+            "mould_series": "BCD400",
+            "online_mould_cnt": 3,
+            "unit_capacity": 100
+        },
+        {
+            "mould_series": "日本47",
+            "online_mould_cnt": 1,
+            "unit_capacity": 60
+        },
+        {
+            "mould_series": "BCD465",
+            "online_mould_cnt": 1,
+            "unit_capacity": 100
+        }
+    ],
+    "mould_configs": [
+        {
+            "mould_series": "BCD4501",
+            "mould_cnt": 2,
+            "unit_capacity": 120,
+            "day_quantity": 4,
+            "bus_code": "B"
+        },
+        {
+            "mould_series": "BCD465",
+            "mould_cnt": 4,
+            "unit_capacity": 100,
+            "day_quantity": 5,
+            "bus_code": "B"
+        },
+        {
+            "mould_series": "BCD500",
+            "mould_cnt": 3,
+            "unit_capacity": 120,
+            "day_quantity": 3,
+            "bus_code": "B"
+        },
+        {
+            "mould_series": "5618两门",
+            "mould_cnt": 2,
+            "unit_capacity": 100,
+            "day_quantity": 7,
+            "bus_code": "B"
+        },
+        {
+            "mould_series": "BCD530",
+            "mould_cnt": 4,
+            "unit_capacity": 100,
+            "day_quantity": 3,
+            "bus_code": "B"
+        },
+        {
+            "mould_series": "BCD580",
+            "mould_cnt": 2,
+            "unit_capacity": 80,
+            "day_quantity": 9,
+            "bus_code": "B"
+        },
+        {
+            "mould_series": "5620三门",
+            "mould_cnt": 2,
+            "unit_capacity": 100,
+            "day_quantity": 4,
+            "bus_code": "B"
+        },
+        {
+            "mould_series": "5620两门",
+            "mould_cnt": 2,
+            "unit_capacity": 100,
+            "day_quantity": 4,
+            "bus_code": "B"
+        },
+        {
+            "mould_series": "BCD320",
+            "mould_cnt": 2,
+            "unit_capacity": 100,
+            "day_quantity": 5,
+            "bus_code": "B"
+        }
+    ],
+    "product_delivery_restriction": [
+        {
+            "mould_series": "BCD4501",
+            "product_code": "BCD4501",
+            "sunday_delivery_quantity": 0,
+            "monday_delivery_quantity": 0,
+            "tuesday_delivery_quantity": 0,
+            "wednesday_delivery_quantity": 0,
+            "thursday_delivery_quantity": 0,
+            "friday_delivery_quantity": 0,
+            "saturday_delivery_quantity": 444
+        },
+        {
+            "mould_series": "BCD465",
+            "product_code": "BCD465",
+            "sunday_delivery_quantity": 0,
+            "monday_delivery_quantity": 0,
+            "tuesday_delivery_quantity": 0,
+            "wednesday_delivery_quantity": 0,
+            "thursday_delivery_quantity": 0,
+            "friday_delivery_quantity": 0,
+            "saturday_delivery_quantity": 480
+        },
+        {
+            "mould_series": "BCD500",
+            "product_code": "BCD500",
+            "sunday_delivery_quantity": 0,
+            "monday_delivery_quantity": 0,
+            "tuesday_delivery_quantity": 0,
+            "wednesday_delivery_quantity": 0,
+            "thursday_delivery_quantity": 0,
+            "friday_delivery_quantity": 2,
+            "saturday_delivery_quantity": 358
+        },
+        {
+            "mould_series": "5618两门",
+            "product_code": "5618两门",
+            "sunday_delivery_quantity": 0,
+            "monday_delivery_quantity": 0,
+            "tuesday_delivery_quantity": 0,
+            "wednesday_delivery_quantity": 0,
+            "thursday_delivery_quantity": 0,
+            "friday_delivery_quantity": 0,
+            "saturday_delivery_quantity": 694
+        },
+        {
+            "mould_series": "BCD530",
+            "product_code": "BCD530",
+            "sunday_delivery_quantity": 0,
+            "monday_delivery_quantity": 0,
+            "tuesday_delivery_quantity": 0,
+            "wednesday_delivery_quantity": 0,
+            "thursday_delivery_quantity": 0,
+            "friday_delivery_quantity": 0,
+            "saturday_delivery_quantity": 274
+        },
+        {
+            "mould_series": "BCD580",
+            "product_code": "BCD580",
+            "sunday_delivery_quantity": 0,
+            "monday_delivery_quantity": 0,
+            "tuesday_delivery_quantity": 0,
+            "wednesday_delivery_quantity": 0,
+            "thursday_delivery_quantity": 0,
+            "friday_delivery_quantity": 0,
+            "saturday_delivery_quantity": 683
+        },
+        {
+            "mould_series": "5620三门",
+            "product_code": "5620三门",
+            "sunday_delivery_quantity": 0,
+            "monday_delivery_quantity": 0,
+            "tuesday_delivery_quantity": 0,
+            "wednesday_delivery_quantity": 0,
+            "thursday_delivery_quantity": 0,
+            "friday_delivery_quantity": 0,
+            "saturday_delivery_quantity": 324
+        },
+        {
+            "mould_series": "5620两门",
+            "product_code": "5620两门",
+            "sunday_delivery_quantity": 0,
+            "monday_delivery_quantity": 0,
+            "tuesday_delivery_quantity": 0,
+            "wednesday_delivery_quantity": 54,
+            "thursday_delivery_quantity": 0,
+            "friday_delivery_quantity": 0,
+            "saturday_delivery_quantity": 270
+        },
+        {
+            "mould_series": "BCD320",
+            "product_code": "BCD320",
+            "sunday_delivery_quantity": 0,
+            "monday_delivery_quantity": 0,
+            "tuesday_delivery_quantity": 0,
+            "wednesday_delivery_quantity": 0,
+            "thursday_delivery_quantity": 0,
+            "friday_delivery_quantity": 0,
+            "saturday_delivery_quantity": 487
+        }
+    ],
+    "fixture_count": [
+        {
+            "max_fixture_count": 30
+        }
+    ]
+}

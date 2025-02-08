@@ -1,0 +1,9 @@
+2024-03-05 10:12:44,251 utils.py[line:148] INFO []: Note: NumExpr detected 20 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-03-05 10:12:44,251 utils.py[line:160] INFO []: NumExpr defaulting to 8 threads.
+2024-03-05 10:44:08,285 utils.py[line:148] INFO []: Note: NumExpr detected 20 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-03-05 10:44:08,285 utils.py[line:160] INFO []: NumExpr defaulting to 8 threads.
+2024-03-05 11:15:02,109 utils.py[line:148] INFO []: Note: NumExpr detected 20 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-03-05 11:15:02,110 utils.py[line:160] INFO []: NumExpr defaulting to 8 threads.
+2024-03-05 11:15:02,449 _internal.py[line:224] INFO []: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-05 11:15:02,449 _internal.py[line:224] INFO []: [33mPress CTRL+C to quit[0m

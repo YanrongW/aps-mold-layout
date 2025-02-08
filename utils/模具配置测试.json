@@ -1,0 +1,18 @@
+{
+    "mould_online_state_last_week": [],
+     "mould_configs": [
+        {
+            "mould_series": "BCD500",
+            "mould_cnt": 3,
+            "unit_capacity": 120,
+            "day_quantity": 3,
+            "bus_code": "B"
+        }
+     ],
+    "product_delivery_restriction": [],
+    "fixture_count": [
+        {
+            "max_fixture_count": 7
+        }
+    ]
+}

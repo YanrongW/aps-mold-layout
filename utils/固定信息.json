@@ -1,0 +1,1411 @@
+{
+    "mould_mapping_product": [
+        {
+            "product_code": "BB0VABE00",
+            "mould_series": "5618三门"
+        },
+        {
+            "product_code": "BJ0W55090",
+            "mould_series": "BCD251"
+        },
+        {
+            "product_code": "BB0UZ108A",
+            "mould_series": "BCD400"
+        },
+        {
+            "product_code": "B00VE1000",
+            "mould_series": "BCD406"
+        },
+        {
+            "product_code": "BC11F3000",
+            "mould_series": "BCD406"
+        },
+        {
+            "product_code": "BC10U1094",
+            "mould_series": "BCD406"
+        },
+        {
+            "product_code": "B00VE0094",
+            "mould_series": "BCD406"
+        },
+        {
+            "product_code": "B00V7007U",
+            "mould_series": "BCD465"
+        },
+        {
+            "product_code": "BC12G4E00",
+            "mould_series": "5618两门"
+        },
+        {
+            "product_code": "BS0BB2000",
+            "mould_series": "BCD超高端"
+        },
+        {
+            "product_code": "BS0BB1000",
+            "mould_series": "BCD超高端"
+        },
+        {
+            "product_code": "BS0BA2000",
+            "mould_series": "BCD超高端"
+        },
+        {
+            "product_code": "BS0BA1000",
+            "mould_series": "BCD超高端"
+        },
+        {
+            "product_code": "BQ00DDX00",
+            "mould_series": "GJ-C20AU1"
+        },
+        {
+            "product_code": "BN0CE1E00",
+            "mould_series": "BCD251升级"
+        },
+        {
+            "product_code": "BN0CE0E00",
+            "mould_series": "BCD251升级"
+        },
+        {
+            "product_code": "BJ0XJ4000",
+            "mould_series": "BCD251升级"
+        },
+        {
+            "product_code": "BJ0XJ3000",
+            "mould_series": "BCD251升级"
+        },
+        {
+            "product_code": "BJ0XJ2000",
+            "mould_series": "BCD251升级"
+        },
+        {
+            "product_code": "BJ0XJ1000",
+            "mould_series": "BCD251升级"
+        },
+        {
+            "product_code": "BJ0XB008A",
+            "mould_series": "BCD401"
+        },
+        {
+            "product_code": "BJ0XB0000",
+            "mould_series": "BCD401"
+        },
+        {
+            "product_code": "BJ0WZ7E95",
+            "mould_series": "BCD251"
+        },
+        {
+            "product_code": "BJ0WL0E1Q",
+            "mould_series": "BCD4501"
+        },
+        {
+            "product_code": "BJ0W56E95",
+            "mould_series": "BCD251"
+        },
+        {
+            "product_code": "BJ0V95M95",
+            "mould_series": "BCD251"
+        },
+        {
+            "product_code": "BJ0V93M95",
+            "mould_series": "BCD251升级"
+        },
+        {
+            "product_code": "BJ0V92090",
+            "mould_series": "BCD251"
+        },
+        {
+            "product_code": "BJ0V91M95",
+            "mould_series": "BCD251"
+        },
+        {
+            "product_code": "BJ0V91090",
+            "mould_series": "BCD251"
+        },
+        {
+            "product_code": "BJ0V90E4Z",
+            "mould_series": "BCD251"
+        },
+        {
+            "product_code": "BC12L3000",
+            "mould_series": "501T"
+        },
+        {
+            "product_code": "BC12L2000",
+            "mould_series": "501T"
+        },
+        {
+            "product_code": "BC12L1000",
+            "mould_series": "501T"
+        },
+        {
+            "product_code": "BC12L0000",
+            "mould_series": "501T"
+        },
+        {
+            "product_code": "BC12H6E00",
+            "mould_series": "5620两门"
+        },
+        {
+            "product_code": "BC12H5E00",
+            "mould_series": "5620两门"
+        },
+        {
+            "product_code": "BC12H4E00",
+            "mould_series": "5620两门"
+        },
+        {
+            "product_code": "BC12H3E00",
+            "mould_series": "5620两门"
+        },
+        {
+            "product_code": "BC12H2E00",
+            "mould_series": "5620两门"
+        },
+        {
+            "product_code": "BC12H1E00",
+            "mould_series": "5620两门"
+        },
+        {
+            "product_code": "BC12H0E00",
+            "mould_series": "5620两门"
+        },
+        {
+            "product_code": "BC12G3E00",
+            "mould_series": "5618两门"
+        },
+        {
+            "product_code": "BC12G1E00",
+            "mould_series": "5618两门"
+        },
+        {
+            "product_code": "BC12G0E00",
+            "mould_series": "5618两门"
+        },
+        {
+            "product_code": "BC11L5E00",
+            "mould_series": "BCD580"
+        },
+        {
+            "product_code": "BC11L4E00",
+            "mould_series": "BCD580"
+        },
+        {
+            "product_code": "BC11L3E00",
+            "mould_series": "BCD580"
+        },
+        {
+            "product_code": "BC11L2E00",
+            "mould_series": "BCD580"
+        },
+        {
+            "product_code": "BC11L1E00",
+            "mould_series": "BCD580"
+        },
+        {
+            "product_code": "BC11L0E00",
+            "mould_series": "BCD580"
+        },
+        {
+            "product_code": "BC11KN000",
+            "mould_series": "BCD507"
+        },
+        {
+            "product_code": "BC11KM000",
+            "mould_series": "BCD507"
+        },
+        {
+            "product_code": "BC11KF000",
+            "mould_series": "BCD507"
+        },
+        {
+            "product_code": "BC11KE000",
+            "mould_series": "BCD507"
+        },
+        {
+            "product_code": "BC11K7000",
+            "mould_series": "BCD512"
+        },
+        {
+            "product_code": "BC11K2000",
+            "mould_series": "BCD512"
+        },
+        {
+            "product_code": "BC11K1000",
+            "mould_series": "BCD512"
+        },
+        {
+            "product_code": "BC11FEE00",
+            "mould_series": "日本41"
+        },
+        {
+            "product_code": "BC11FD000",
+            "mould_series": "BCD406"
+        },
+        {
+            "product_code": "BC11FC000",
+            "mould_series": "BCD406"
+        },
+        {
+            "product_code": "BC11F8000",
+            "mould_series": "BCD406"
+        },
+        {
+            "product_code": "BC11F7000",
+            "mould_series": "BCD406"
+        },
+        {
+            "product_code": "BC11F5000",
+            "mould_series": "BCD406"
+        },
+        {
+            "product_code": "BC11F2000",
+            "mould_series": "日本406"
+        },
+        {
+            "product_code": "BC11ALE00",
+            "mould_series": "日本47"
+        },
+        {
+            "product_code": "BC11AKE00",
+            "mould_series": "日本47"
+        },
+        {
+            "product_code": "BC11AGE00",
+            "mould_series": "BCD530"
+        },
+        {
+            "product_code": "BC11AFE00",
+            "mould_series": "BCD530"
+        },
+        {
+            "product_code": "BC1168000",
+            "mould_series": "BCD501"
+        },
+        {
+            "product_code": "BC1167000",
+            "mould_series": "BCD501"
+        },
+        {
+            "product_code": "BC1166000",
+            "mould_series": "BCD501"
+        },
+        {
+            "product_code": "BC1165000",
+            "mould_series": "BCD501"
+        },
+        {
+            "product_code": "BC1164000",
+            "mould_series": "BCD501"
+        },
+        {
+            "product_code": "BC1162000",
+            "mould_series": "BCD501"
+        },
+        {
+            "product_code": "BC1160099",
+            "mould_series": "BCD501"
+        },
+        {
+            "product_code": "BB0VC1000",
+            "mould_series": "BCD400"
+        },
+        {
+            "product_code": "BB0VAAE00",
+            "mould_series": "5618三门"
+        },
+        {
+            "product_code": "BB0VA9E00",
+            "mould_series": "5618三门"
+        },
+        {
+            "product_code": "BB0VA8E00",
+            "mould_series": "5618三门"
+        },
+        {
+            "product_code": "BB0VA7E00",
+            "mould_series": "5618三门"
+        },
+        {
+            "product_code": "BB0VA6E00",
+            "mould_series": "5618三门"
+        },
+        {
+            "product_code": "BB0VA5E00",
+            "mould_series": "5618三门"
+        },
+        {
+            "product_code": "BB0VA4E00",
+            "mould_series": "5618三门"
+        },
+        {
+            "product_code": "BB0VA3E00",
+            "mould_series": "5618三门"
+        },
+        {
+            "product_code": "BB0V9KE00",
+            "mould_series": "5620三门"
+        },
+        {
+            "product_code": "BB0V9JE00",
+            "mould_series": "5620三门"
+        },
+        {
+            "product_code": "BB0V9HE00",
+            "mould_series": "5620三门"
+        },
+        {
+            "product_code": "BB0V9GE00",
+            "mould_series": "5620三门"
+        },
+        {
+            "product_code": "BB0UZ2000",
+            "mould_series": "BCD400"
+        },
+        {
+            "product_code": "BB0UZ1000",
+            "mould_series": "BCD400"
+        },
+        {
+            "product_code": "BB0UZ0089",
+            "mould_series": "BCD400"
+        },
+        {
+            "product_code": "BB0UZ0000",
+            "mould_series": "BCD400"
+        },
+        {
+            "product_code": "BB0B70EAA",
+            "mould_series": "BCD465"
+        },
+        {
+            "product_code": "BB0AY4E8N",
+            "mould_series": "BCD320"
+        },
+        {
+            "product_code": "BB0AS0E9P",
+            "mould_series": "BCD465"
+        },
+        {
+            "product_code": "BB0AS0E4Z",
+            "mould_series": "BCD465"
+        },
+        {
+            "product_code": "BB0AS0E1G",
+            "mould_series": "BCD465"
+        },
+        {
+            "product_code": "BB09Y9E1Q",
+            "mould_series": "BCD4501"
+        },
+        {
+            "product_code": "BB09Y7E94",
+            "mould_series": "BCD465"
+        },
+        {
+            "product_code": "BB09Y1E4Z",
+            "mould_series": "BCD465"
+        },
+        {
+            "product_code": "BB09Y0E96",
+            "mould_series": "BCD744"
+        },
+        {
+            "product_code": "BB09Y0E82",
+            "mould_series": "BCD465"
+        },
+        {
+            "product_code": "BB09Y0E1G",
+            "mould_series": "BCD465"
+        },
+        {
+            "product_code": "BB09W0E9P",
+            "mould_series": "BCD465"
+        },
+        {
+            "product_code": "B70V13000",
+            "mould_series": "BCD386"
+        },
+        {
+            "product_code": "B70V12000",
+            "mould_series": "BCD386"
+        },
+        {
+            "product_code": "B70V11000",
+            "mould_series": "BCD386"
+        },
+        {
+            "product_code": "B70V10000",
+            "mould_series": "BCD386"
+        },
+        {
+            "product_code": "B00XN3000",
+            "mould_series": "BCD790"
+        },
+        {
+            "product_code": "B00XN2000",
+            "mould_series": "BCD790"
+        },
+        {
+            "product_code": "B00XN1000",
+            "mould_series": "BCD790"
+        },
+        {
+            "product_code": "B00XG1000",
+            "mould_series": "BCD790"
+        },
+        {
+            "product_code": "B00XG0000",
+            "mould_series": "BCD790"
+        },
+        {
+            "product_code": "B00VEN000",
+            "mould_series": "BCD412"
+        },
+        {
+            "product_code": "B00VEM000",
+            "mould_series": "BCD412"
+        },
+        {
+            "product_code": "B00VEL000",
+            "mould_series": "BCD412"
+        },
+        {
+            "product_code": "B00VEK000",
+            "mould_series": "BCD412"
+        },
+        {
+            "product_code": "B00VEJ000",
+            "mould_series": "BCD412"
+        },
+        {
+            "product_code": "B00VEH000",
+            "mould_series": "BCD412"
+        },
+        {
+            "product_code": "B00VEG000",
+            "mould_series": "卡萨帝418"
+        },
+        {
+            "product_code": "B00VEF000",
+            "mould_series": "卡萨帝418"
+        },
+        {
+            "product_code": "B00VEE000",
+            "mould_series": "BCD410双轴"
+        },
+        {
+            "product_code": "B00VED000",
+            "mould_series": "BCD410双轴"
+        },
+        {
+            "product_code": "B00VEC000",
+            "mould_series": "BCD412"
+        },
+        {
+            "product_code": "B00VEA000",
+            "mould_series": "BCD410双轴"
+        },
+        {
+            "product_code": "B00VE9000",
+            "mould_series": "BCD412"
+        },
+        {
+            "product_code": "B00VE8000",
+            "mould_series": "BCD412"
+        },
+        {
+            "product_code": "B00VE7000",
+            "mould_series": "卡萨帝418"
+        },
+        {
+            "product_code": "B00VE6000",
+            "mould_series": "卡萨帝418"
+        },
+        {
+            "product_code": "B00VE5000",
+            "mould_series": "BCD410双轴"
+        },
+        {
+            "product_code": "B00VE4000",
+            "mould_series": "BCD410双轴"
+        },
+        {
+            "product_code": "B00VE2E00",
+            "mould_series": "BCD15"
+        },
+        {
+            "product_code": "B00VD10A1",
+            "mould_series": "BCD500"
+        },
+        {
+            "product_code": "B00VD00A1",
+            "mould_series": "BCD500"
+        },
+        {
+            "product_code": "B00VD0000",
+            "mould_series": "BCD500"
+        },
+        {
+            "product_code": "B00V74000",
+            "mould_series": "BCD465"
+        },
+        {
+            "product_code": "B00V71B00",
+            "mould_series": "BCD465"
+        },
+        {
+            "product_code": "B00V70EAE",
+            "mould_series": "BCD465"
+        },
+        {
+            "product_code": "B00V7009P",
+            "mould_series": "BCD465"
+        },
+        {
+            "product_code": "B00V70000",
+            "mould_series": "BCD465"
+        },
+        {
+            "product_code": "B00UT4E00",
+            "mould_series": "2M"
+        },
+        {
+            "product_code": "B00UT1E9P",
+            "mould_series": "2M"
+        },
+        {
+            "product_code": "B00UT1E00",
+            "mould_series": "2M"
+        },
+        {
+            "product_code": "B00UT9E00",
+            "mould_series": "2M"
+        },
+        {
+            "product_code": "B00UT6E00",
+            "mould_series": "2M"
+        },
+        {
+            "product_code": "B00UT8E00",
+            "mould_series": "2M"
+        },
+        {
+            "product_code": "B00UT5E00",
+            "mould_series": "2M"
+        },
+        {
+            "product_code": "B00UT0E1G",
+            "mould_series": "2M"
+        },
+        {
+            "product_code": "B00UT2E00",
+            "mould_series": "2M"
+        },
+        {
+            "product_code": "B00UT0E9P",
+            "mould_series": "2M"
+        },
+        {
+            "product_code": "B00UT7E00",
+            "mould_series": "2M"
+        },
+        {
+            "product_code": "B00UT1E1G",
+            "mould_series": "2M"
+        },
+        {
+            "product_code": "BC11H6E00",
+            "mould_series": "TZ51"
+        },
+        {
+            "product_code": "BC11H8E00",
+            "mould_series": "TZ51"
+        },
+        {
+            "product_code": "BC11J7E00",
+            "mould_series": "TZ42"
+        },
+        {
+            "product_code": "BC11J6E00",
+            "mould_series": "TZ42"
+        },
+        {
+            "product_code": "BC11J8E00",
+            "mould_series": "TZ42"
+        },
+        {
+            "product_code": "BC11H7E00",
+            "mould_series": "TZ51"
+        },
+        {
+            "product_code": "B70V21E00",
+            "mould_series": "TX50"
+        },
+        {
+            "product_code": "B70V22E00",
+            "mould_series": "TX50"
+        },
+        {
+            "product_code": "B70V23E00",
+            "mould_series": "TX50"
+        },
+        {
+            "product_code": "B70V20E00",
+            "mould_series": "TX50"
+        },
+        {
+            "product_code": "B502P104C",
+            "mould_series": "冰吧"
+        },
+        {
+            "product_code": "BC11J5E00",
+            "mould_series": "TZ42"
+        },
+        {
+            "product_code": "BC11J3E00",
+            "mould_series": "TZ42"
+        },
+        {
+            "product_code": "BC11J4E00",
+            "mould_series": "TZ42"
+        },
+        {
+            "product_code": "BC11H3E00",
+            "mould_series": "TZ51"
+        },
+        {
+            "product_code": "BC11H4E00",
+            "mould_series": "TZ51"
+        },
+        {
+            "product_code": "BC11H5E00",
+            "mould_series": "TZ51"
+        },
+        {
+            "product_code": "BJ0X30E9P",
+            "mould_series": "790B"
+        },
+        {
+            "product_code": "BJ0XY2E00",
+            "mould_series": "700B"
+        },
+        {
+            "product_code": "BJ0XY3E00",
+            "mould_series": "700B"
+        },
+        {
+            "product_code": "BJ0XY1E00",
+            "mould_series": "700B"
+        },
+        {
+            "product_code": "BJ0XY0E00",
+            "mould_series": "700B"
+        },
+        {
+            "product_code": "BJ0XY4E00",
+            "mould_series": "700B"
+        },
+        {
+            "product_code": "B00VA0E00",
+            "mould_series": "790B"
+        },
+        {
+            "product_code": "BB0A30E90",
+            "mould_series": "790B"
+        },
+        {
+            "product_code": "BB0A31E9P",
+            "mould_series": "790B"
+        },
+        {
+            "product_code": "BJ0X30E00",
+            "mould_series": "790B"
+        },
+        {
+            "product_code": "B00U21E9P",
+            "mould_series": "790F"
+        },
+        {
+            "product_code": "B00X32E9P",
+            "mould_series": "790F"
+        },
+        {
+            "product_code": "B00U20E9P",
+            "mould_series": "790F"
+        },
+        {
+            "product_code": "BC1150E96",
+            "mould_series": 456
+        },
+        {
+            "product_code": "BC1156E01",
+            "mould_series": 456
+        },
+        {
+            "product_code": "BC1151E96",
+            "mould_series": 456
+        },
+        {
+            "product_code": "BC115AE00",
+            "mould_series": 456
+        },
+        {
+            "product_code": "BC1151E8V",
+            "mould_series": 456
+        },
+        {
+            "product_code": "B70U01E98",
+            "mould_series": 456
+        },
+        {
+            "product_code": "BC10F0E72",
+            "mould_series": 456
+        },
+        {
+            "product_code": "BC1151E7T",
+            "mould_series": 456
+        },
+        {
+            "product_code": "B70U07E8V",
+            "mould_series": 456
+        },
+        {
+            "product_code": "BC1150Z00",
+            "mould_series": 456
+        },
+        {
+            "product_code": "BC1150E9P",
+            "mould_series": 456
+        },
+        {
+            "product_code": "B70U00E1G",
+            "mould_series": 456
+        },
+        {
+            "product_code": "B70U02E8V",
+            "mould_series": 456
+        },
+        {
+            "product_code": "BC10F0EAA",
+            "mould_series": 456
+        },
+        {
+            "product_code": "B70U01E8V",
+            "mould_series": 456
+        },
+        {
+            "product_code": "BC1152E8V",
+            "mould_series": 456
+        },
+        {
+            "product_code": "BC10F0E1G",
+            "mould_series": 456
+        },
+        {
+            "product_code": "BC10F0EAE",
+            "mould_series": 456
+        },
+        {
+            "product_code": "BC10F2E1G",
+            "mould_series": 456
+        },
+        {
+            "product_code": "BC10F0Z7T",
+            "mould_series": 456
+        },
+        {
+            "product_code": "BC10F0Z7U",
+            "mould_series": 456
+        },
+        {
+            "product_code": "BC1155E00",
+            "mould_series": 456
+        },
+        {
+            "product_code": "BC10F1E1G",
+            "mould_series": 456
+        },
+        {
+            "product_code": "B70UT3000",
+            "mould_series": 480
+        },
+        {
+            "product_code": "B70UT4000",
+            "mould_series": 480
+        },
+        {
+            "product_code": "B70UT2000",
+            "mould_series": 480
+        },
+        {
+            "product_code": "B70UT008K",
+            "mould_series": 480
+        },
+        {
+            "product_code": "B70UT0E00",
+            "mould_series": 480
+        },
+        {
+            "product_code": "B00V48E00",
+            "mould_series": 16
+        },
+        {
+            "product_code": "B00V45E00",
+            "mould_series": 16
+        },
+        {
+            "product_code": "B00V46E00",
+            "mould_series": 16
+        },
+        {
+            "product_code": "B00UM0E7U",
+            "mould_series": 16
+        },
+        {
+            "product_code": "B00U64E8V",
+            "mould_series": 16
+        },
+        {
+            "product_code": "B00V49E00",
+            "mould_series": 16
+        },
+        {
+            "product_code": "B00V4CE00",
+            "mould_series": 16
+        },
+        {
+            "product_code": "B00V4AE00",
+            "mould_series": 16
+        },
+        {
+            "product_code": "B00V47E00",
+            "mould_series": 16
+        },
+        {
+            "product_code": "B00V4BE00",
+            "mould_series": 45367
+        },
+        {
+            "product_code": "B00V43E9P",
+            "mould_series": 45367
+        },
+        {
+            "product_code": "B00V41E9P",
+            "mould_series": 45367
+        },
+        {
+            "product_code": "B00V41084",
+            "mould_series": 16
+        },
+        {
+            "product_code": "B00V4508V",
+            "mould_series": 16
+        },
+        {
+            "product_code": "B00V46E9P",
+            "mould_series": 16
+        },
+        {
+            "product_code": "B00U61E8V",
+            "mould_series": 16
+        },
+        {
+            "product_code": "B00V45B9P",
+            "mould_series": 16
+        },
+        {
+            "product_code": "B00UV0E7U",
+            "mould_series": 520
+        },
+        {
+            "product_code": "B00UV6E00",
+            "mould_series": 520
+        },
+        {
+            "product_code": "B00XD8000",
+            "mould_series": 502
+        },
+        {
+            "product_code": "B00XD9000",
+            "mould_series": 502
+        },
+        {
+            "product_code": "B00UV4000",
+            "mould_series": 520
+        },
+        {
+            "product_code": "B00UV3000",
+            "mould_series": 520
+        },
+        {
+            "product_code": "B00UV0000",
+            "mould_series": 520
+        },
+        {
+            "product_code": "B00UV7000",
+            "mould_series": 520
+        },
+        {
+            "product_code": "B00UV1000",
+            "mould_series": 520
+        },
+        {
+            "product_code": "B70U3407U",
+            "mould_series": 520
+        },
+        {
+            "product_code": "BB0V43000",
+            "mould_series": 380
+        },
+        {
+            "product_code": "BB0V42000",
+            "mould_series": 380
+        },
+        {
+            "product_code": "BB0V40000",
+            "mould_series": 380
+        },
+        {
+            "product_code": "BB0V41000",
+            "mould_series": 380
+        },
+        {
+            "product_code": "BB0B20000",
+            "mould_series": 360
+        },
+        {
+            "product_code": "BB0A2008E",
+            "mould_series": 360
+        },
+        {
+            "product_code": "BB0A2108E",
+            "mould_series": 360
+        },
+        {
+            "product_code": "BC115U000",
+            "mould_series": 466
+        },
+        {
+            "product_code": "BC115D000",
+            "mould_series": 456
+        },
+        {
+            "product_code": "B70U020AE",
+            "mould_series": 456
+        },
+        {
+            "product_code": "BC115B000",
+            "mould_series": 456
+        },
+        {
+            "product_code": "BC115C000",
+            "mould_series": 456
+        },
+        {
+            "product_code": "B70U04094",
+            "mould_series": 456
+        },
+        {
+            "product_code": "BC1152072",
+            "mould_series": 456
+        },
+        {
+            "product_code": "BC10Q0096",
+            "mould_series": 456
+        },
+        {
+            "product_code": "BC1159001",
+            "mould_series": 466
+        },
+        {
+            "product_code": "BC115J001",
+            "mould_series": 466
+        },
+        {
+            "product_code": "BC115H001",
+            "mould_series": 466
+        },
+        {
+            "product_code": "BC115Y000",
+            "mould_series": 466
+        },
+        {
+            "product_code": "BC115V000",
+            "mould_series": 466
+        },
+        {
+            "product_code": "BC115P001",
+            "mould_series": 466
+        },
+        {
+            "product_code": "BC115S000",
+            "mould_series": 466
+        },
+        {
+            "product_code": "BC115M000",
+            "mould_series": 466
+        },
+        {
+            "product_code": "BC115Q000",
+            "mould_series": 466
+        },
+        {
+            "product_code": "BC115R000",
+            "mould_series": 466
+        },
+        {
+            "product_code": "BC10W5Z00",
+            "mould_series": "456加深"
+        },
+        {
+            "product_code": "BC10W4Z00",
+            "mould_series": "456加深"
+        },
+        {
+            "product_code": "B70U30E97",
+            "mould_series": "456加深"
+        },
+        {
+            "product_code": "B70U30E9F",
+            "mould_series": "456加深"
+        },
+        {
+            "product_code": "B70U30E8N",
+            "mould_series": "456加深"
+        },
+        {
+            "product_code": "BC10C0E76",
+            "mould_series": "456加深"
+        },
+        {
+            "product_code": "BC10C1E76",
+            "mould_series": "456加深"
+        },
+        {
+            "product_code": "BC10W1E8V",
+            "mould_series": "456加深"
+        },
+        {
+            "product_code": "BC10W0E8V",
+            "mould_series": "456加深"
+        },
+        {
+            "product_code": "BC10C3E76",
+            "mould_series": "456加深"
+        },
+        {
+            "product_code": "BC10W7000",
+            "mould_series": "456加深"
+        },
+        {
+            "product_code": "BC10W6000",
+            "mould_series": "456加深"
+        },
+        {
+            "product_code": "BC10W3000",
+            "mould_series": "456加深"
+        },
+        {
+            "product_code": "BC10W1000",
+            "mould_series": "456加深"
+        },
+        {
+            "product_code": "BC10W0000",
+            "mould_series": "456加深"
+        },
+        {
+            "product_code": "BC10W2000",
+            "mould_series": "456加深"
+        },
+        {
+            "product_code": "BC12K0000",
+            "mould_series": 410
+        },
+        {
+            "product_code": "BC12K2000",
+            "mould_series": 410
+        },
+        {
+            "product_code": "BC12K1000",
+            "mould_series": 410
+        },
+        {
+            "product_code": "B70UV4V00",
+            "mould_series": "425双轴"
+        },
+        {
+            "product_code": "B70UV2000",
+            "mould_series": "425双轴"
+        },
+        {
+            "product_code": "B70UV3000",
+            "mould_series": "425双轴"
+        },
+        {
+            "product_code": "B70UV008F",
+            "mould_series": 405
+        },
+        {
+            "product_code": "B70UV0094",
+            "mould_series": 405
+        },
+        {
+            "product_code": "B70UV1000",
+            "mould_series": 405
+        },
+        {
+            "product_code": "B00U0008N",
+            "mould_series": 405
+        },
+        {
+            "product_code": "B00V42000",
+            "mould_series": 450
+        },
+        {
+            "product_code": "B00V40099",
+            "mould_series": 450
+        },
+        {
+            "product_code": "B00V400A1",
+            "mould_series": 450
+        },
+        {
+            "product_code": "B00V41000",
+            "mould_series": 450
+        },
+        {
+            "product_code": "BB0B00000",
+            "mould_series": 312
+        },
+        {
+            "product_code": "small-test-sku",
+            "mould_series": "small-test"
+        },
+        {
+            "product_code": "popular-test-sku",
+            "mould_series": "BCD400"
+        },
+        {
+            "product_code": "popular-test-sku2",
+            "mould_series": "BCD400"
+        }
+    ],
+    "bus_info": [
+        {
+            "bus_code": "A",
+            "day_capacity": 3000,
+            "bus_name": "总装A线",
+            "fixture_cnt": 18
+        },
+        {
+            "bus_code": "B",
+            "day_capacity": 2001,
+            "bus_name": "总装B线",
+            "fixture_cnt": 18
+        }
+    ],
+    "mould_info": [
+        {
+            "mould_series": "501T",
+            "mould_code": "501T",
+            "mould_cnt": 4,
+            "bus_code": "B",
+            "unit_capacity": 100
+        },
+        {
+            "mould_series": "5618三门",
+            "mould_code": "5618三门",
+            "mould_cnt": 2,
+            "bus_code": "B",
+            "unit_capacity": 100
+        },
+        {
+            "mould_series": "5618两门",
+            "mould_code": "5618两门",
+            "mould_cnt": 2,
+            "bus_code": "B",
+            "unit_capacity": 100
+        },
+        {
+            "mould_series": "5620三门",
+            "mould_code": "5620三门",
+            "mould_cnt": 2,
+            "bus_code": "B ",
+            "unit_capacity": 100
+        },
+        {
+            "mould_series": "5620两门",
+            "mould_code": "5620两门",
+            "mould_cnt": 2,
+            "bus_code": "B ",
+            "unit_capacity": 100
+        },
+        {
+            "mould_series": "BCD15",
+            "mould_code": "BCD15",
+            "mould_cnt": 2,
+            "bus_code": "B ",
+            "unit_capacity": 100
+        },
+        {
+            "mould_series": "BCD251",
+            "mould_code": "BCD251",
+            "mould_cnt": 2,
+            "bus_code": "B",
+            "unit_capacity": 100
+        },
+        {
+            "mould_series": "BCD251升级",
+            "mould_code": "BCD251升级",
+            "mould_cnt": 1,
+            "bus_code": "B ",
+            "unit_capacity": 100
+        },
+        {
+            "mould_series": "BCD320",
+            "mould_code": "BCD320",
+            "mould_cnt": 2,
+            "bus_code": "B ",
+            "unit_capacity": 100
+        },
+        {
+            "mould_series": "BCD400",
+            "mould_code": "BCD400",
+            "mould_cnt": 4,
+            "bus_code": "A/B",
+            "unit_capacity": 100
+        },
+        {
+            "mould_series": "BCD401",
+            "mould_code": "BCD401",
+            "mould_cnt": 1,
+            "bus_code": "B ",
+            "unit_capacity": 100
+        },
+        {
+            "mould_series": "BCD406",
+            "mould_code": "BCD406",
+            "mould_cnt": 10,
+            "bus_code": "A/B",
+            "unit_capacity": 140
+        },
+        {
+            "mould_series": "BCD410双轴",
+            "mould_code": "BCD410双轴",
+            "mould_cnt": 10,
+            "bus_code": "A ",
+            "unit_capacity": 140
+        },
+        {
+            "mould_series": "BCD412",
+            "mould_code": "BCD412",
+            "mould_cnt": 10,
+            "bus_code": "A ",
+            "unit_capacity": 140
+        },
+        {
+            "mould_series": "BCD4501",
+            "mould_code": "BCD4501",
+            "mould_cnt": 2,
+            "bus_code": "B ",
+            "unit_capacity": 120
+        },
+        {
+            "mould_series": "BCD465",
+            "mould_code": "BCD465",
+            "mould_cnt": 4,
+            "bus_code": "B",
+            "unit_capacity": 100
+        },
+        {
+            "mould_series": "BCD500",
+            "mould_code": "BCD500",
+            "mould_cnt": 3,
+            "bus_code": "B ",
+            "unit_capacity": 120
+        },
+        {
+            "mould_series": "BCD501",
+            "mould_code": "BCD501",
+            "mould_cnt": 10,
+            "bus_code": "A ",
+            "unit_capacity": 120
+        },
+        {
+            "mould_series": "BCD507",
+            "mould_code": "BCD507",
+            "mould_cnt": 4,
+            "bus_code": "B ",
+            "unit_capacity": 100
+        },
+        {
+            "mould_series": "BCD512",
+            "mould_code": "BCD512",
+            "mould_cnt": 1,
+            "bus_code": "A ",
+            "unit_capacity": 100
+        },
+        {
+            "mould_series": "BCD530",
+            "mould_code": "BCD530",
+            "mould_cnt": 4,
+            "bus_code": "B ",
+            "unit_capacity": 100
+        },
+        {
+            "mould_series": "BCD580",
+            "mould_code": "BCD580",
+            "mould_cnt": 2,
+            "bus_code": "B ",
+            "unit_capacity": 80
+        },
+        {
+            "mould_series": "BCD790",
+            "mould_code": "BCD790",
+            "mould_cnt": 4,
+            "bus_code": "B ",
+            "unit_capacity": 100
+        },
+        {
+            "mould_series": "BCD超高端",
+            "mould_code": "BCD超高端",
+            "mould_cnt": 1,
+            "bus_code": "B ",
+            "unit_capacity": 100
+        },
+        {
+            "mould_series": "GJ-C20AU1",
+            "mould_code": "GJ-C20AU1",
+            "mould_cnt": 1,
+            "bus_code": "A ",
+            "unit_capacity": 2000
+        },
+        {
+            "mould_series": "卡萨帝418",
+            "mould_code": "卡萨帝418",
+            "mould_cnt": 2,
+            "bus_code": "A ",
+            "unit_capacity": 100
+        },
+        {
+            "mould_series": "日本406",
+            "mould_code": "日本406",
+            "mould_cnt": 1,
+            "bus_code": "B ",
+            "unit_capacity": 60
+        },
+        {
+            "mould_series": "日本41",
+            "mould_code": "日本41",
+            "mould_cnt": 1,
+            "bus_code": "B ",
+            "unit_capacity": 60
+        },
+        {
+            "mould_series": "日本47",
+            "mould_code": "日本47",
+            "mould_cnt": 1,
+            "bus_code": "B",
+            "unit_capacity": 60
+        }
+    ]
+}
